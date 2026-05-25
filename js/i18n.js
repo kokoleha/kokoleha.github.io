@@ -81,7 +81,7 @@ const translations = {
     "exp.4.a2": "Implemented Kubernetes-based deployments and CI/CD automation",
     "exp.4.a3": "Worked with Prometheus, Grafana, Postgres, Redis, and monitoring tooling",
 
-    "exp.5.date": "Nov 2020 – Mar 2021",
+    "exp.5.date": "Nov 2017 – Mar 2021",
     "exp.5.role": "System Engineer",
     "exp.5.company": "TurboRender",
     "exp.5.a1": "Designed scalable client-server architectures with 1000+ instances",
@@ -183,7 +183,7 @@ const translations = {
     "exp.4.a2": "Внедрение деплоев на базе Kubernetes и автоматизация CI/CD",
     "exp.4.a3": "Работа с Prometheus, Grafana, Postgres, Redis и инструментами мониторинга",
 
-    "exp.5.date": "Ноябрь 2020 – Март 2021",
+    "exp.5.date": "Ноябрь 2017 – Март 2021",
     "exp.5.role": "System Engineer",
     "exp.5.company": "TurboRender",
     "exp.5.a1": "Проектирование масштабируемых клиент-серверных архитектур на 1000+ инстансов",
