@@ -250,6 +250,10 @@ document.addEventListener('DOMContentLoaded', function () {
       var next = current === 'en' ? 'ru' : 'en';
       setLanguage(next);
       langBtn.textContent = next === 'en' ? 'EN | RU' : 'RU | EN';
+      // Reload projects to display in the new language
+      if (typeof reloadProjects === 'function') {
+        reloadProjects();
+      }
     });
   }
 });
