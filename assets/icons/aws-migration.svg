@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="aws-mig-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9900"/>
+      <stop offset="100%" stop-color="#E88600"/>
+    </linearGradient>
+  </defs>
+  <!-- Hexagonal badge shape -->
+  <polygon points="32,4 54,18 54,46 32,60 10,46 10,18" fill="#232F3E" stroke="url(#aws-mig-grad)" stroke-width="2.5"/>
+  <!-- Migration arrow -->
+  <path d="M18 32 L40 32" fill="none" stroke="#FF9900" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="42,32 36,27 36,37" fill="#FF9900"/>
+  <!-- Cloud source -->
+  <path d="M16 28 C16 25 18 23 21 23 C23 22 25 24 25 26 C27 26 28 27 28 29 C28 31 27 32 25 32 L17 32 C15 32 14 30 14 28 C14 27 15 26 16 28 Z" fill="none" stroke="#FF9900" stroke-width="1.2"/>
+  <!-- Cloud destination -->
+  <path d="M38 28 C38 25 40 23 43 23 C45 22 47 24 47 26 C49 26 50 27 50 29 C50 31 49 32 47 32 L39 32 C37 32 36 30 36 28 C36 27 37 26 38 28 Z" fill="#FF9900" opacity="0.8"/>
+  <!-- Text -->
+  <text x="32" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="5" font-weight="bold" fill="#FF9900">MIGRATION</text>
+</svg>

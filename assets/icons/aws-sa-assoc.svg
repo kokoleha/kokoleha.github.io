@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="aws-assoc-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF9900"/>
+      <stop offset="100%" stop-color="#E88600"/>
+    </linearGradient>
+  </defs>
+  <!-- Badge circle -->
+  <circle cx="32" cy="32" r="26" fill="#232F3E" stroke="url(#aws-assoc-grad)" stroke-width="3"/>
+  <!-- Inner ring -->
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#FF9900" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <!-- AWS arrow/smile -->
+  <path d="M20 34 Q32 42 44 34" fill="none" stroke="#FF9900" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Cloud icon -->
+  <path d="M24 28 C24 24 28 22 32 22 C36 22 38 24 39 26 C42 26 44 28 44 30 C44 32 42 34 40 34 L24 34 C22 34 20 32 20 30 C20 28 22 26 24 28 Z" fill="#FF9900"/>
+  <!-- ASSOC text -->
+  <text x="32" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="5.5" font-weight="bold" fill="#FF9900">ASSOC</text>
+</svg>

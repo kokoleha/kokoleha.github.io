@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="aws-pro-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF9900"/>
+      <stop offset="100%" stop-color="#E88600"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield shape -->
+  <path d="M32 4 L56 16 V36 C56 48 44 58 32 62 C20 58 8 48 8 36 V16 Z" fill="url(#aws-pro-grad)" stroke="#CC7A00" stroke-width="1.5"/>
+  <!-- Inner shield detail -->
+  <path d="M32 10 L50 20 V35 C50 44 41 52 32 56 C23 52 14 44 14 35 V20 Z" fill="#232F3E"/>
+  <!-- Star for Professional level -->
+  <polygon points="32,18 35,26 44,26 37,31 39,40 32,35 25,40 27,31 20,26 29,26" fill="#FF9900"/>
+  <!-- AWS text -->
+  <text x="32" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="#FF9900">PRO</text>
+</svg>
