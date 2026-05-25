@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="badge-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9900"/>
+      <stop offset="100%" stop-color="#FFB84D"/>
+    </linearGradient>
+  </defs>
+  <!-- Badge background -->
+  <polygon points="32,2 58,18 58,46 32,62 6,46 6,18" fill="#232F3E" stroke="#FF9900" stroke-width="2"/>
+  <!-- Brain/neural network icon -->
+  <circle cx="32" cy="28" r="10" fill="none" stroke="url(#badge-grad)" stroke-width="2"/>
+  <!-- Neural nodes -->
+  <circle cx="28" cy="25" r="2" fill="#FF9900"/>
+  <circle cx="36" cy="25" r="2" fill="#FF9900"/>
+  <circle cx="32" cy="31" r="2" fill="#FF9900"/>
+  <circle cx="26" cy="30" r="1.5" fill="#FF9900"/>
+  <circle cx="38" cy="30" r="1.5" fill="#FF9900"/>
+  <!-- Neural connections -->
+  <line x1="28" y1="25" x2="36" y2="25" stroke="#FF9900" stroke-width="0.8" opacity="0.7"/>
+  <line x1="28" y1="25" x2="32" y2="31" stroke="#FF9900" stroke-width="0.8" opacity="0.7"/>
+  <line x1="36" y1="25" x2="32" y2="31" stroke="#FF9900" stroke-width="0.8" opacity="0.7"/>
+  <line x1="26" y1="30" x2="28" y2="25" stroke="#FF9900" stroke-width="0.8" opacity="0.7"/>
+  <line x1="38" y1="30" x2="36" y2="25" stroke="#FF9900" stroke-width="0.8" opacity="0.7"/>
+  <!-- AI text -->
+  <text x="32" y="48" font-family="Arial, sans-serif" font-size="8" font-weight="700" fill="#FF9900" text-anchor="middle">AI</text>
+  <!-- AWS text -->
+  <text x="32" y="56" font-family="Arial, sans-serif" font-size="5" fill="#FF9900" text-anchor="middle" opacity="0.8">AWS</text>
+</svg>

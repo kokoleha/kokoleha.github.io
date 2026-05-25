@@ -40,6 +40,7 @@ const translations = {
 
     // Certifications
     "skills.certs.title": "Certifications",
+    "skills.cert.0": "AWS Certified AI Practitioner",
     "skills.cert.1": "AWS Certified Solutions Architect – Professional",
     "skills.cert.2": "AWS Certified Solutions Architect – Associate",
     "skills.cert.3": "AWS Knowledge: Migration Foundations",
@@ -90,6 +91,12 @@ const translations = {
     "projects.title": "Projects",
     "projects.error": "Unable to load projects. Please try again later.",
 
+    // Stats
+    "stats.experience": "Years Experience",
+    "stats.architects": "Architects Led",
+    "stats.cost": "Cost Reduction",
+    "stats.developers": "Developers Supported",
+
     // Contact
     "contact.title": "Contact",
     "contact.name": "Name",
@@ -134,6 +141,7 @@ const translations = {
 
     // Certifications
     "skills.certs.title": "Сертификации",
+    "skills.cert.0": "AWS Certified AI Practitioner",
     "skills.cert.1": "AWS Certified Solutions Architect – Professional",
     "skills.cert.2": "AWS Certified Solutions Architect – Associate",
     "skills.cert.3": "AWS Knowledge: Migration Foundations",
@@ -183,6 +191,12 @@ const translations = {
     // Projects
     "projects.title": "Проекты",
     "projects.error": "Не удалось загрузить проекты. Попробуйте позже.",
+
+    // Stats
+    "stats.experience": "Лет опыта",
+    "stats.architects": "Архитекторов в команде",
+    "stats.cost": "Снижение затрат",
+    "stats.developers": "Разработчиков поддержано",
 
     // Contact
     "contact.title": "Контакты",

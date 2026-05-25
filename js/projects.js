@@ -35,7 +35,7 @@ function renderProject(project) {
   }
 
   card.innerHTML =
-    '<h3 class="project-title">' + escapeHtml(title) + '</h3>' +
+    '<h3 class="project-title">' + (project.icon ? '<span class="project-icon">' + escapeHtml(project.icon) + '</span>' : '') + escapeHtml(title) + '</h3>' +
     '<p class="project-description">' + escapeHtml(description) + '</p>' +
     '<div class="project-tech">' +
       project.technologies.map(function(t) { return '<span class="tech-tag">' + escapeHtml(t) + '</span>'; }).join('') +
