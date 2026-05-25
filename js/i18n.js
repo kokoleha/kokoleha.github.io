@@ -13,9 +13,10 @@ const translations = {
     "nav.contact": "Contact",
 
     // Hero
-    "hero.title": "Lead AWS Solutions Architect",
-    "hero.tagline": "GenAI & Cloud Migration Specialist",
-    "hero.cta": "Get in Touch",
+    "hero.headline1": "Less AI Hype.",
+    "hero.headline2": "More Results.",
+    "hero.subtitle": "I help companies automate high-impact work and build AI-native products on AWS — from strategy to production.",
+    "hero.cta": "Let's Talk",
 
     // About
     "about.title": "About Me",
@@ -40,7 +41,7 @@ const translations = {
 
     // Certifications
     "skills.certs.title": "Certifications",
-    "skills.cert.0": "AWS Certified AI Practitioner",
+    "skills.cert.0": "AWS Certified Generative AI Developer – Professional",
     "skills.cert.1": "AWS Certified Solutions Architect – Professional",
     "skills.cert.2": "AWS Certified Solutions Architect – Associate",
     "skills.cert.3": "AWS Knowledge: Migration Foundations",
@@ -114,9 +115,10 @@ const translations = {
     "nav.contact": "Контакты",
 
     // Hero
-    "hero.title": "Lead AWS Solutions Architect",
-    "hero.tagline": "Специалист по GenAI и облачной миграции",
-    "hero.cta": "Связаться",
+    "hero.headline1": "Меньше хайпа.",
+    "hero.headline2": "Больше результатов.",
+    "hero.subtitle": "Помогаю компаниям автоматизировать ключевые процессы и создавать AI-продукты на AWS — от стратегии до продакшна.",
+    "hero.cta": "Обсудить проект",
 
     // About
     "about.title": "Обо мне",
@@ -141,7 +143,7 @@ const translations = {
 
     // Certifications
     "skills.certs.title": "Сертификации",
-    "skills.cert.0": "AWS Certified AI Practitioner",
+    "skills.cert.0": "AWS Certified Generative AI Developer – Professional",
     "skills.cert.1": "AWS Certified Solutions Architect – Professional",
     "skills.cert.2": "AWS Certified Solutions Architect – Associate",
     "skills.cert.3": "AWS Knowledge: Migration Foundations",
