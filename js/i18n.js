@@ -98,6 +98,9 @@ const translations = {
     "stats.cost": "Cost Reduction",
     "stats.developers": "Developers Supported",
 
+    // Clients
+    "clients.title": "Trusted by",
+
     // Contact
     "contact.title": "Contact",
     "contact.name": "Name",
@@ -199,6 +202,9 @@ const translations = {
     "stats.architects": "Архитекторов в команде",
     "stats.cost": "Снижение затрат",
     "stats.developers": "Разработчиков поддержано",
+
+    // Clients
+    "clients.title": "Доверяют",
 
     // Contact
     "contact.title": "Контакты",
