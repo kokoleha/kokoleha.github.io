@@ -1,56 +1,56 @@
 [
   {
-    "title": "AI Customer Support Assistant",
-    "title_ru": "AI-ассистент поддержки клиентов",
-    "description": "Production-grade AI assistant using AWS Bedrock and RAG architecture for automated customer support with context-aware responses powered by DynamoDB and Lambda.",
-    "description_ru": "Продакшн AI-ассистент на базе AWS Bedrock и RAG-архитектуры для автоматизации поддержки клиентов с контекстно-зависимыми ответами на базе DynamoDB и Lambda.",
-    "technologies": ["AWS Bedrock", "RAG", "Lambda", "DynamoDB", "Python"],
+    "title": "AI Agentic Systems Platform",
+    "title_ru": "Платформа AI-агентных систем",
+    "description": "8+ production-grade AI agentic systems including customer support assistants and document analysis, integrated into high-availability environments on AWS.",
+    "description_ru": "8+ продакшн AI-агентных систем, включая ассистентов поддержки и анализ документов, интегрированных в высокодоступные среды на AWS.",
+    "technologies": ["AWS Bedrock", "Agentcore", "RAG", "Lambda", "Python"],
     "icon": "🤖",
     "link": ""
   },
   {
-    "title": "Cloud Cost Optimization Platform",
-    "title_ru": "Платформа оптимизации облачных затрат",
-    "description": "Enterprise cloud optimization initiative achieving 30% AWS compute cost reduction through ARM64 migration and multi-architecture EKS workloads.",
-    "description_ru": "Корпоративная инициатива по оптимизации облачных затрат, обеспечившая снижение расходов на вычисления AWS на 30% за счёт миграции на ARM64 и мультиархитектурных нагрузок EKS.",
-    "technologies": ["ARM64", "EKS", "Kubernetes", "Multi-arch", "AWS"],
+    "title": "Cloud Cost Optimization",
+    "title_ru": "Оптимизация облачных затрат",
+    "description": "Reduced AWS compute costs by 25-40% across multiple client accounts through ARM64 migration, multi-architecture EKS workloads, and right-sizing.",
+    "description_ru": "Снижение затрат на вычисления AWS на 25-40% по клиентским аккаунтам через миграцию на ARM64, мультиархитектурные нагрузки EKS и right-sizing.",
+    "technologies": ["ARM64", "EKS", "Kubernetes", "FinOps", "AWS"],
     "icon": "💰",
     "link": ""
   },
   {
-    "title": "Enterprise RAG Platform",
-    "title_ru": "Корпоративная RAG-платформа",
-    "description": "Scalable Retrieval-Augmented Generation platform built on AWS Bedrock and SageMaker with serverless architecture for enterprise document analysis and knowledge retrieval.",
-    "description_ru": "Масштабируемая платформа Retrieval-Augmented Generation на базе AWS Bedrock и SageMaker с бессерверной архитектурой для корпоративного анализа документов и извлечения знаний.",
-    "technologies": ["AWS Bedrock", "SageMaker", "Lambda", "Serverless", "Python"],
-    "icon": "🧠",
-    "link": ""
-  },
-  {
-    "title": "Azure-to-AWS Migration",
-    "title_ru": "Миграция из Azure в AWS",
-    "description": "Large-scale enterprise migration from Azure to AWS using Infrastructure as Code, including cross-region resilience and containerized workloads on ECS.",
-    "description_ru": "Масштабная корпоративная миграция из Azure в AWS с использованием Infrastructure as Code, включая кросс-региональную отказоустойчивость и контейнеризированные нагрузки на ECS.",
+    "title": "Multi-Cloud Migration",
+    "title_ru": "Мультиоблачная миграция",
+    "description": "Led 4+ project migrations from Azure, GCP, Scaleway, and Heroku to AWS with zero data loss and zero downtime.",
+    "description_ru": "Руководство миграцией 4+ проектов из Azure, GCP, Scaleway и Heroku в AWS без потери данных и простоя.",
     "technologies": ["Terraform", "AWS CDK", "ECS", "Cross-region", "Azure"],
     "icon": "☁️",
     "link": ""
   },
   {
-    "title": "Multilingual AI Workflow System",
-    "title_ru": "Мультиязычная система AI-воркфлоу",
-    "description": "Automated multilingual AI workflow system orchestrating document processing and content generation using AWS Bedrock, Lambda, and Step Functions.",
-    "description_ru": "Автоматизированная мультиязычная система AI-воркфлоу для обработки документов и генерации контента с использованием AWS Bedrock, Lambda и Step Functions.",
-    "technologies": ["AWS Bedrock", "Lambda", "Step Functions", "Python", "Serverless"],
-    "icon": "🌐",
+    "title": "Enterprise SaaS Platform",
+    "title_ru": "Корпоративная SaaS-платформа",
+    "description": "Supported enterprise SaaS serving 5000+ developers with 99.9% uptime SLA. Reduced CI/CD costs 10x and deployment time by 60%.",
+    "description_ru": "Поддержка корпоративной SaaS для 5000+ разработчиков с SLA 99.9%. Снижение затрат на CI/CD в 10 раз и времени деплоя на 60%.",
+    "technologies": ["ECS", "Fargate", "Jenkins", "Terraform", "Helm"],
+    "icon": "⚙️",
     "link": ""
   },
   {
-    "title": "Enterprise SaaS DevOps Platform",
-    "title_ru": "Корпоративная DevOps-платформа для SaaS",
-    "description": "High-availability DevOps platform supporting 5000+ developers with containerized microservices, automated CI/CD pipelines, and API management.",
-    "description_ru": "Высокодоступная DevOps-платформа для 5000+ разработчиков с контейнеризированными микросервисами, автоматизированными CI/CD-пайплайнами и управлением API.",
-    "technologies": ["ECS", "Fargate", "API Gateway", "CI/CD", "Terraform"],
-    "icon": "⚙️",
+    "title": "DR & Compliance Architecture",
+    "title_ru": "Архитектура DR и Compliance",
+    "description": "Designed disaster recovery strategies achieving RPO <1h and RTO <4h. Implemented SOC2, ISO27001, and GDPR compliance frameworks.",
+    "description_ru": "Проектирование DR-стратегий с RPO <1ч и RTO <4ч. Внедрение фреймворков соответствия SOC2, ISO27001 и GDPR.",
+    "technologies": ["AWS", "Cross-region", "SOC2", "ISO27001", "GDPR"],
+    "icon": "🛡️",
+    "link": ""
+  },
+  {
+    "title": "Observability Platform",
+    "title_ru": "Платформа наблюдаемости",
+    "description": "Improved system observability coverage from 40% to 95% across distributed microservices using Prometheus, Grafana, and CloudWatch.",
+    "description_ru": "Повышение покрытия наблюдаемости с 40% до 95% по распределённым микросервисам с использованием Prometheus, Grafana и CloudWatch.",
+    "technologies": ["Prometheus", "Grafana", "CloudWatch", "EKS", "Kubernetes"],
+    "icon": "📊",
     "link": ""
   }
 ]

@@ -21,24 +21,25 @@ const translations = {
 
     // About
     "about.title": "About Me",
-    "about.text": "Lead AWS Solutions Architect with 10+ years of experience delivering cloud-native and AI-powered systems for international B2B and SaaS companies. Specialized in AWS migrations, Kubernetes platforms, DevOps transformation, observability, and production-grade GenAI / Agentic AI solutions using AWS Bedrock and serverless architectures.",
+    "about.text": "Lead AWS Solutions Architect with 10+ years of experience. Specialized in GenAI/Agentic AI solutions, AWS infrastructure, Kubernetes, and DevOps. Delivered 20+ production systems and 8+ AI solutions for international B2B and SaaS companies.",
 
     // Skills
     "skills.title": "Skills & Certifications",
     "skills.cat.cloud": "Cloud Architecture",
     "skills.cat.ai": "AI & GenAI",
     "skills.cat.devops": "DevOps & IaC",
-    "skills.cat.observability": "Observability",
-    "skills.cloud.1": "AWS Cloud Architecture & Migration",
-    "skills.cloud.2": "Kubernetes, EKS, ECS, Serverless",
-    "skills.cloud.3": "Cost Optimization & High Availability",
+    "skills.cat.observability": "Leadership & Compliance",
+    "skills.cloud.1": "Cloud Architecture & Migration Strategy",
+    "skills.cloud.2": "Container Orchestration & Serverless",
+    "skills.cloud.3": "Cost Optimization & FinOps",
     "skills.ai.1": "Generative AI & Agentic AI Systems",
     "skills.ai.2": "AWS Bedrock, Agentcore, RAG, MCP Tools",
-    "skills.ai.3": "Enterprise SaaS Platforms",
-    "skills.devops.1": "Infrastructure as Code (Terraform, CDK, Helm, Ansible)",
-    "skills.devops.2": "CI/CD & DevOps Automation",
-    "skills.observability.1": "Observability, Reliability & Disaster Recovery",
-    "skills.observability.2": "Technical Leadership & Solution Reviews",
+    "skills.ai.3": "AI-native Product Development",
+    "skills.devops.1": "Infrastructure as Code & Automation",
+    "skills.devops.2": "CI/CD Pipeline Design",
+    "skills.observability.1": "Observability & Disaster Recovery",
+    "skills.observability.2": "Technical Leadership & Pre-sales",
+    "skills.observability.3": "Security Compliance (SOC2, ISO27001, GDPR)",
 
     // Certifications
     "skills.certs.title": "Certifications",
@@ -129,24 +130,25 @@ const translations = {
 
     // About
     "about.title": "Обо мне",
-    "about.text": "Lead AWS Solutions Architect с более чем 10-летним опытом создания облачных и AI-систем для международных B2B и SaaS компаний. Специализация: миграция в AWS, платформы Kubernetes, DevOps-трансформация, наблюдаемость и продакшн-решения GenAI / Agentic AI на базе AWS Bedrock и serverless-архитектур.",
+    "about.text": "Lead AWS Solutions Architect с более чем 10-летним опытом. Специализация: GenAI/Agentic AI решения, AWS-инфраструктура, Kubernetes и DevOps. Доставлено 20+ продакшн-систем и 8+ AI-решений для международных B2B и SaaS компаний.",
 
     // Skills
     "skills.title": "Навыки и сертификации",
     "skills.cat.cloud": "Облачная архитектура",
     "skills.cat.ai": "AI и GenAI",
     "skills.cat.devops": "DevOps и IaC",
-    "skills.cat.observability": "Наблюдаемость",
-    "skills.cloud.1": "Облачная архитектура AWS и миграция",
-    "skills.cloud.2": "Kubernetes, EKS, ECS, Serverless",
-    "skills.cloud.3": "Оптимизация затрат и высокая доступность",
+    "skills.cat.observability": "Лидерство и Compliance",
+    "skills.cloud.1": "Облачная архитектура и стратегия миграции",
+    "skills.cloud.2": "Оркестрация контейнеров и Serverless",
+    "skills.cloud.3": "Оптимизация затрат и FinOps",
     "skills.ai.1": "Generative AI и Agentic AI системы",
     "skills.ai.2": "AWS Bedrock, Agentcore, RAG, MCP Tools",
-    "skills.ai.3": "Корпоративные SaaS-платформы",
-    "skills.devops.1": "Infrastructure as Code (Terraform, CDK, Helm, Ansible)",
-    "skills.devops.2": "CI/CD и DevOps-автоматизация",
-    "skills.observability.1": "Наблюдаемость, надёжность и аварийное восстановление",
-    "skills.observability.2": "Техническое лидерство и ревью решений",
+    "skills.ai.3": "Разработка AI-native продуктов",
+    "skills.devops.1": "Infrastructure as Code и автоматизация",
+    "skills.devops.2": "Проектирование CI/CD пайплайнов",
+    "skills.observability.1": "Наблюдаемость и аварийное восстановление",
+    "skills.observability.2": "Техническое лидерство и Pre-sales",
+    "skills.observability.3": "Security Compliance (SOC2, ISO27001, GDPR)",
 
     // Certifications
     "skills.certs.title": "Сертификации",
