@@ -24,7 +24,8 @@ const translations = {
     "about.text": "Lead AWS Solutions Architect with 10+ years of experience. Specialized in GenAI/Agentic AI solutions, AWS infrastructure, Kubernetes, and DevOps. Delivered 20+ production systems and 8+ AI solutions for international B2B and SaaS companies.",
 
     // Skills
-    "skills.title": "Skills & Certifications",
+    "skills.competencies.title": "Core Competencies",
+    "skills.stack.title": "Technology Stack",
     "skills.cat.cloud": "Cloud Architecture",
     "skills.cat.ai": "AI & GenAI",
     "skills.cat.devops": "DevOps & IaC",
@@ -98,8 +99,8 @@ const translations = {
 
     // Stats
     "stats.experience": "Years Experience",
-    "stats.architects": "Architects Led",
-    "stats.cost": "Cost Reduction",
+    "stats.projects": "Production Projects",
+    "stats.ai": "AI Solutions",
     "stats.developers": "Developers Supported",
 
     // Clients
@@ -133,7 +134,8 @@ const translations = {
     "about.text": "Lead AWS Solutions Architect с более чем 10-летним опытом. Специализация: GenAI/Agentic AI решения, AWS-инфраструктура, Kubernetes и DevOps. Доставлено 20+ продакшн-систем и 8+ AI-решений для международных B2B и SaaS компаний.",
 
     // Skills
-    "skills.title": "Навыки и сертификации",
+    "skills.competencies.title": "Ключевые компетенции",
+    "skills.stack.title": "Technology Stack",
     "skills.cat.cloud": "Облачная архитектура",
     "skills.cat.ai": "AI и GenAI",
     "skills.cat.devops": "DevOps и IaC",
@@ -207,8 +209,8 @@ const translations = {
 
     // Stats
     "stats.experience": "Лет опыта",
-    "stats.architects": "Архитекторов в команде",
-    "stats.cost": "Снижение затрат",
+    "stats.projects": "Продакшн-проектов",
+    "stats.ai": "AI-решений",
     "stats.developers": "Разработчиков поддержано",
 
     // Clients

@@ -231,6 +231,16 @@ ul {
   margin: 0 auto;
 }
 
+.hero-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--color-primary);
+  box-shadow: 0 0 30px rgba(96, 165, 250, 0.2);
+  margin: 0 auto var(--space-lg);
+}
+
 .hero-headline {
   font-size: 4rem;
   font-weight: 800;
@@ -757,6 +767,71 @@ ul {
 .skill-card h3 {
   display: flex;
   align-items: center;
+}
+
+/* ==========================================================================
+   Core Competencies Tags
+   ========================================================================== */
+
+.competencies-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+}
+
+.competency-tag {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.competency-tag:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: rgba(96, 165, 250, 0.05);
+}
+
+/* ==========================================================================
+   Technology Stack Grid
+   ========================================================================== */
+
+.section-title--sub {
+  font-size: 1.5rem;
+  margin-top: var(--space-xl);
+}
+
+.tech-stack-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-md);
+  margin-bottom: var(--space-xl);
+}
+
+.tech-stack-item {
+  display: flex;
+  gap: var(--space-sm);
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.tech-stack-label {
+  font-weight: 600;
+  color: var(--color-primary);
+  min-width: 90px;
+  flex-shrink: 0;
+  font-size: 0.85rem;
+}
+
+.tech-stack-value {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-family: var(--font-mono);
 }
 
 /* ==========================================================================
